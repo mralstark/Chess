@@ -1,0 +1,3 @@
+C:/Users/astar/OneDrive/Desktop/chess/build/CMakeFiles/chess.dir
+C:/Users/astar/OneDrive/Desktop/chess/build/CMakeFiles/edit_cache.dir
+C:/Users/astar/OneDrive/Desktop/chess/build/CMakeFiles/rebuild_cache.dir
